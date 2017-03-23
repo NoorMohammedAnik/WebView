@@ -1,0 +1,60 @@
+body{
+height: 100%;
+    margin: 0;
+
+  
+background: -webkit-linear-gradient(#3BB9FF, #FFFFFF); 
+  background: -o-linear-gradient(#3BB9FF, #FFFFFF); 
+  background: -moz-linear-gradient(#3BB9FF, #FFFFFF); 
+  background: linear-gradient(#3BB9FF, #FFFFFF); 
+  background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+html {
+    height: 100%;
+}
+
+
+
+#Guide
+{
+
+width: 100%;
+height: 100%;
+position: relative;
+}
+#user1
+{
+
+width: 100%;
+height: auto;
+position: relative;
+}
+#user2
+{
+
+width: 100%;
+height: auto;
+position: relative;
+}
+
+#he
+{
+
+text-align: center;
+background: -webkit-linear-gradient(#E2E2E2, #FFFFFF); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#E2E2E2, #FFFFFF ); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#E2E2E2, #FFFFFF ); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#E2E2E2, #FFFFFF); /* Standard syntax */
+}
+#she
+{
+text-align: center;
+list-style:none;
+}
+#she1
+{
+text-align: Justify;
+list-style:none;
+
+}
